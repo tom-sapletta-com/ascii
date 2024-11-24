@@ -1,4 +1,7 @@
+![ascii-art-krzyk-inspired-by-Edvard-Munch-tom-sapletta.png](ascii-art-krzyk-inspired-by-Edvard-Munch-tom-sapletta.png)
+
 # ascii
+
 ascii art
 
 
